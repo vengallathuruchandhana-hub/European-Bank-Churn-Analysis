@@ -1,5 +1,11 @@
 # Customer Segmentation & Churn Pattern Analytics in European Banking
 
+## 🚀 Live Dashboard
+
+Explore the deployed application:
+
+[European Bank Churn Analysis Dashboard](https://european-bank-churn-analysis-p7eor3hbpaomknafzclpi2.streamlit.app/)
+
 ## Project Overview
 This project analyzes customer churn patterns in a European banking dataset using Python, Machine Learning, and Streamlit. The goal is to identify customers who are likely to leave the bank, understand the factors influencing churn, and provide actionable business recommendations.
 
@@ -90,7 +96,7 @@ European-Bank-Churn-Analysis/
 
 ### 1. Clone the repository
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/vengallathuruchandhana-hub/European-Bank-Churn-Analysis.git
 cd European-Bank-Churn-Analysis
 ```
 
