@@ -1,0 +1,79 @@
+=================================================================
+EUROPEAN BANKING CUSTOMER CHURN ANALYSIS
+FINAL BUSINESS INSIGHTS AND RECOMMENDATIONS
+=================================================================
+
+Report Generated: 06-11-2026 21:45:03
+
+
+1. OVERALL CUSTOMER CHURN ANALYSIS
+--------------------------------------------------
+Total Customers: 10,000
+Total Churned Customers: 2,037
+Overall Churn Rate: 20.37%
+
+Business Insight: Approximately one in five customers has left the bank.
+
+
+2. HIGH-RISK DEMOGRAPHIC SEGMENTS
+--------------------------------------------------
+Cluster 3: 1,193 customers | Churn Rate: 37.55%
+Cluster 0: 1,316 customers | Churn Rate: 27.81%
+Cluster 5: 1,089 customers | Churn Rate: 21.21%
+
+
+3. HIGH-RISK BEHAVIORAL SEGMENTS
+--------------------------------------------------
+Cluster 5: 820 customers | Churn Rate: 35.12%
+Cluster 6: 1,411 customers | Churn Rate: 33.66%
+Cluster 1: 718 customers | Churn Rate: 26.18%
+Cluster 3: 1,343 customers | Churn Rate: 23.01%
+
+
+4. TOP FIVE CHURN PREDICTION FEATURES
+--------------------------------------------------
+Age: 0.3126
+NumOfProducts: 0.1902
+Balance: 0.1233
+EstimatedSalary: 0.0838
+CreditScore: 0.0821
+
+
+5. CUSTOMER CHURN RISK DISTRIBUTION
+--------------------------------------------------
+Low Risk: 996 customers | Average Probability: 16.23% | Actual Churned: 50
+Medium Risk: 622 customers | Average Probability: 42.66% | Actual Churned: 114
+High Risk: 382 customers | Average Probability: 76.90% | Actual Churned: 243
+
+
+6. BEST CHURN PREDICTION MODEL
+--------------------------------------------------
+Model: Tuned Random Forest
+Accuracy: 82.30%
+Precision: 54.97%
+Recall: 71.99%
+F1 Score: 62.34%
+ROC-AUC: 86.10%
+
+
+7. BUSINESS RECOMMENDATIONS
+--------------------------------------------------
+1. Prioritize customer retention campaigns for high-risk customers.
+2. Investigate the reasons behind higher churn in Germany.
+3. Develop engagement programs for inactive customers.
+4. Review product combinations associated with higher churn.
+5. Provide personalized retention offers to older customer groups.
+6. Monitor high-balance customers with low engagement.
+7. Use churn probabilities to prioritize customer outreach.
+8. Regularly evaluate and retrain the churn prediction model.
+
+
+8. PROJECT CONCLUSION
+--------------------------------------------------
+This project combined exploratory data analysis, customer segmentation, churn prediction and business insights to understand customer attrition in European banking.
+The Tuned Random Forest model achieved the best ROC-AUC among the evaluated models. Customer segmentation identified groups with different churn patterns.
+These findings can help the bank prioritize retention efforts and make data-driven customer relationship decisions.
+
+=================================================================
+END OF FINAL BUSINESS INSIGHTS REPORT
+=================================================================

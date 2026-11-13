@@ -1,0 +1,8 @@
+Metric,Demographic Model,Behavioral Model
+Total Customers,10000.0,10000.0
+Number of Clusters,6.0,9.0
+Features Used,13.0,8.0
+Best Silhouette Score,0.2004,0.1526
+Highest Cluster Churn Rate (%),37.55238893545683,35.12195121951219
+Lowest Cluster Churn Rate (%),12.713403559752997,7.76778413736713
+Customers in Above-Average-Churn Clusters,3598.0,4292.0

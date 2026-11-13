@@ -1,0 +1,6 @@
+Area,Insight,Recommendation
+Germany,Germany has a higher churn rate than France and Spain.,"Investigate customer complaints, pricing, and service experience in Germany."
+Inactive Customers,Inactive customers show higher churn than active customers.,Use personalized engagement campaigns and service reminders.
+Product Usage,"Customers with 3 or 4 products show very high observed churn rates, but these groups are small.",Review product suitability and customer satisfaction before cross-selling.
+Customer Age,Age is the most important feature in the Random Forest model.,Study age-group needs and provide suitable banking services.
+Behavioral Segments,Some behavioral clusters have substantially higher churn rates.,Prioritize retention outreach for high-churn clusters and monitor campaign outcomes.
